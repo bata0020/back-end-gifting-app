@@ -1,0 +1,8 @@
+{"level":"error","message":"We could not find a person with id: 6252c9a336d904d86b295ee","module":"logErrors","service":"giftrApp"}
+{"level":"error","message":"We could not find a person with id: 6252c9a336d904d86b295ee","module":"logErrors","service":"giftrApp"}
+{"level":"error","message":"We could not find a gift with id: 625eb8eb41270f47fcb0a278","module":"logErrors","service":"giftrApp"}
+{"level":"error","message":"User validation failed: email: The email address 'm@hmail.com' is already registered.","module":"logErrors","service":"giftrApp"}
+{"level":"error","message":"We could not find a person with id: 625eb4b947f10e7a96dcbd9b","module":"logErrors","service":"giftrApp"}
+{"level":"error","message":"We could not find a person with id: 625ebf40454e41bddfad4774","module":"logErrors","service":"giftrApp"}
+{"level":"error","message":"We could not find a person with id: 625ebf40454e41bddfad4774","module":"logErrors","service":"giftrApp"}
+{"level":"error","message":"We could not find a person with id: 625ebf40454e41bddfa4774","module":"logErrors","service":"giftrApp"}

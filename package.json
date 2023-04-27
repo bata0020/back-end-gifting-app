@@ -1,0 +1,48 @@
+{
+  "name": "mad9124-w22-p1-giftr",
+  "version": "0.1.0",
+  "description": "MAD9124 Final Project",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "DEBUG=final* nodemon server.js"
+  },
+  "keywords": [
+    "MAD9124",
+    "W22"
+  ],
+  "author": "Jasreet Kaur <kaur0764@algonquinlive.com>",
+  "contributors": [
+    "Leo Batan <bata0020@algonquinlive.com>","Robert McKenney <mckennr@algonquincollege.com>"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaur0764/mad9124-w22-p1-giftr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaur0764/mad9124-w22-p1-giftr/issues"
+  },
+  "homepage": "https://github.com/kaur0764/mad9124-w22-p1-giftr#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "compression": "^1.7.4",
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.17.3",
+    "express-mongo-sanitize": "^2.2.0",
+    "helmet": "^5.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.10",
+    "mongoose-unique-validator": "^3.0.0",
+    "morgan": "^1.10.0",
+    "validator": "^13.7.0",
+    "winston": "^3.7.2",
+    "xss": "^1.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

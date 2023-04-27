@@ -1,0 +1,11 @@
+{
+  "name": "giftrApp",
+  "db": {
+    "host": "localhost",
+    "port": "27017",
+    "dbName": "final"
+  },
+  "jwt": {
+    "saltRounds": 14
+  }
+}
